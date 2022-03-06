@@ -1,5 +1,7 @@
-[![Header](https://raw.githubusercontent.com/klderbyshire/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
-
+<div id="header" align="center">
+<img src="https://www.canva.com/design/DAE6MmPWV6g/URX3_EXxPFhOE8S_Mvp8_g/edit?utm_content=DAE6MmPWV6g&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" width="100"/>
+</div>" width="100"/>
+</div>
 
 ### Hi there 👋
 
