@@ -1,4 +1,4 @@
-<img src="https://github.com/klderbyshire/klderbyshire/blob/main/Colorful%20Vintage%20Gradient%20Lifestyle%20LinkedIn%20Banner.png">
+<img src="https://github.com/klderbyshire/klderbyshire/blob/main/Colorful%20Vintage%20Gradient%20Lifestyle%20LinkedIn%20Banner.png" alt="banner that says Karen Derbyshire - Software Developer">>
 
 
 
