@@ -1,6 +1,4 @@
-<!--<h3 align="center">
-![image](https://user-images.githubusercontent.com/Colorful Vintage Gradient Lifestyle LinkedIn Banner.pdf)
-</h3> -->
+<img src="https://github.com/klderbyshire/klderbyshire/blob/main/Colorful%20Vintage%20Gradient%20Lifestyle%20LinkedIn%20Banner.png">
 
 
 
